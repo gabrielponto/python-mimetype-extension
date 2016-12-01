@@ -4,8 +4,6 @@ Initial list thanks to StackOverflow answer: http://stackoverflow.com/a/3393525/
 
 Simple usage:
 
-`
-from pymimeext.converter import get_extension
+    from pymimeext.converter import get_mimetype
 
-print get_extension('pdf')
-`
+    print get_mimetype('pdf')
