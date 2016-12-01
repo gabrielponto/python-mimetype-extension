@@ -1,4 +1,4 @@
-extension_mimetype = {
+EXTENSION_MIMETYPE = {
 	'323': 'text/h323',
 	'3g2': 'video/3gpp2',
 	'3gp': 'video/3gpp',
